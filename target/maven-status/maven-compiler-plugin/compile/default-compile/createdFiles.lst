@@ -1,0 +1,14 @@
+Interface\ActionInterface.class
+utilities\Reporting.class
+pagesObject\Detection.class
+ActionDriver\Action.class
+pagesObject\SignUpPage.class
+Base\BaseClass.class
+utilities\ReadConfig.class
+testCases\SingUpPageTest.class
+testCases\productPageTest.class
+testCases\SignInPageTest.class
+pagesObject\LoginPage.class
+testCases\LoginPageTest.class
+pagesObject\ProductPage.class
+pagesObject\SignInPage.class
